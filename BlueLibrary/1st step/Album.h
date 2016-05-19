@@ -8,6 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
+
 @interface Album : NSObject
 
 @property (nonatomic, copy, readonly) NSString * title;
