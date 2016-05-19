@@ -104,6 +104,7 @@
 			);
 			path = BlueLibrary;
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 		450EECC617A9B03A00957F62 /* Supporting Files */ = {
 			isa = PBXGroup;
